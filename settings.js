@@ -19,15 +19,15 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94704461999']
-global.premium = ['94704461999']
-global.ownernomer = '94704461999'
+global.owner = ['94764497078']
+global.premium = ['94764497078']
+global.ownernomer = '94764497078'
 global.ownername = '🐦SANDARU NETHSARA'
 global.botname = 'RXE WABOT'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.footer = '©sandaruNwInc.'
+global.ig = 'https://github.com/sandaru07/RXE'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/sandaru07/RXE'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'RXE'
 global.author = '🐦SANDARU NETHSARA'
